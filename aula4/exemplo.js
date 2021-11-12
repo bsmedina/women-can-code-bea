@@ -30,3 +30,9 @@ meuArrayObjetos = [
 ]
 
 const meuArrayVariosTipos = [ "Abacaxi", 700, true, {eletronico: "nootebook"}];
+
+//Você também pode inserir um item no início do array usando `unshift()`;
+
+//.pop() remove o último elemento de uma matriz e retorna esse elemento;
+
+//Você também pode remover um item no início do array usando `shift()`;
